@@ -1,0 +1,25 @@
+.title {
+  font-size: 17em;
+  margin: 0 0 0 -1rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.stop {
+  margin: 2em 0 0;
+}
+.stop span{
+  margin: 0.5em;
+  display: block;
+}
+.stop .place{
+  font-weight: 900;
+}
+
+.about{
+  border: 5px solid white;
+  padding: 1em;
+  width: 50%;
+  float: right;
+  transform: translateY(-5em);
+}

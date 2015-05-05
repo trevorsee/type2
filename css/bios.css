@@ -1,0 +1,41 @@
+.sigma-parent{
+  margin: 5em 0;
+  border: 5px solid white;
+}
+.sigma-expand{
+  background-color: transparent;
+}
+.bio{
+  clear: both;
+}
+.bio img{
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+.bio img:hover{
+  z-index: 3;
+}
+.bio .imgcont{
+  width: 30%;
+  border: 5px solid white;
+}
+.bio .textcont{
+  position: relative;
+  z-index: 2;
+  width: 70%;
+  padding: 7em;
+  border: 5px solid white;
+  margin: -6em 0 7em;
+}
+h1 {
+ position: absolute;
+ text-transform: uppercase;
+ margin: 0;
+ font-size: 6em;
+ top: 0;
+ transform: translateY(-50%);
+}
+p {
+  margin: 1em 0;
+}
