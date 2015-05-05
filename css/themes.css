@@ -15,7 +15,9 @@
 }
 .textcont {
   border: 5px solid white;
-  margin: 0 0 5em;
+  margin: 0 0 12em;
+  padding: 2em;
+
 }
 p {
   border: 5px solid white;
